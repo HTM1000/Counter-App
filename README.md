@@ -1,6 +1,6 @@
 # counter_app
 
-A new Flutter project.
+Um novo projeto em Flutter desenvolvido na NLW6 da rocketseat
 
 ## Getting Started
 
